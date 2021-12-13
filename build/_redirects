@@ -1,0 +1,8 @@
+/* /index.html   200 
+
+# Redirects from what the browser requests to what we serve
+/portfolio          /contact
+/setup              /newyear
+/home               https://www.rasulovdev.netlify.app
+/about              https://www.petsofnetlify.com
+/
