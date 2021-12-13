@@ -1,6 +1,6 @@
 // the semi-colon before function invocation is a safety net against concatenated
 // scripts and/or other plugins which may not be closed properly.
-;(function ( $, window, document, undefined ) {
+;(function ( $, window, document ) {
 
 	var SnowFlake = function(expireCallback) {
 		var that = this;
